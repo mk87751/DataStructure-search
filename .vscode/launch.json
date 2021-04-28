@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch choosePoints",
+            "request": "launch",
+            "mainClass": "choosePoints",
+            "projectName": "serching_3919fa76"
+        },
+        {
+            "type": "java",
+            "name": "Launch minCutTree",
+            "request": "launch",
+            "mainClass": "minCutTree",
+            "projectName": "serching_3919fa76"
+        }
+    ]
+}
