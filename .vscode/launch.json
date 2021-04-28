@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch kthSmallestDifference",
+            "request": "launch",
+            "mainClass": "kthSmallestDifference",
+            "projectName": "serching_3919fa76"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
